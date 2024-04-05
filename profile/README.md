@@ -8,4 +8,4 @@ This is a private organization.
 
 ### Contributions
 
-Feel free to contribute and ideas are more to welcome.
+Feel free to contribute and ideas are more than welcome.
